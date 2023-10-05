@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChetanMorey44/ReactProject.git/static/css/main.3551bccb.css",
+    "main.js": "/ChetanMorey44/ReactProject.git/static/js/main.a6c91878.js",
+    "static/js/787.0c3f432a.chunk.js": "/ChetanMorey44/ReactProject.git/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/ChetanMorey44/ReactProject.git/index.html",
+    "main.3551bccb.css.map": "/ChetanMorey44/ReactProject.git/static/css/main.3551bccb.css.map",
+    "main.a6c91878.js.map": "/ChetanMorey44/ReactProject.git/static/js/main.a6c91878.js.map",
+    "787.0c3f432a.chunk.js.map": "/ChetanMorey44/ReactProject.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3551bccb.css",
+    "static/js/main.a6c91878.js"
+  ]
+}
